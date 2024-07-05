@@ -3,6 +3,7 @@
 This repository contains Data Narratives created as part of a course Probability, Statistics and Data Visualization. The analysis focused on 3 different datasets, employing Python extract insights related to patterns found in each of them. The project showcased skills in data analysis, visualization, statistics, and domain knowledge, utilizing the pandas, numpy and matplotlib libraries.
 
 ## Project Highlights
+The Folders to each dataset contains the python scripts used to visualise and process the data along with the analysis reports containing the visualised graphs and inferences drawn.
 
 ### Datasets Analyzed
 - **Books Reviews Dataset**: The given data is similar to an online catalogue for different 
